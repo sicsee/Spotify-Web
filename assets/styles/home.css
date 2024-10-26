@@ -26,7 +26,7 @@
 
 #dropbtn{
   display: flex;
-  padding: 5px;
+  padding: 3px;
   border-radius: 25px;
   border: none;
   background-color: black;
@@ -43,10 +43,10 @@
 }
 
 #dropbtn p {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   color: white;
-  margin-left: 15px;
+  padding-left: 10px;
 }
 
 #dropbtn i{
