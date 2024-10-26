@@ -5,7 +5,7 @@ document.getElementById("dropbtn").addEventListener("click", function() {
   // Alterna a visibilidade do dropdown
   dropdown.classList.toggle("show");
 
-  // Verifica se o dropdown está visível e altera o ícone
+  // Alterar o icone dropdown
   if (dropdown.classList.contains("show")) {
       icon.classList.remove("fa-caret-down");
       icon.classList.add("fa-caret-up");

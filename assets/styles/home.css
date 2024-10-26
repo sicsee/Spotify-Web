@@ -125,3 +125,25 @@
   height: 75px;
   border-radius: 5px;
 }
+
+.grid-item p{
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.title-home2 {
+  font-size: 25px;
+  font-weight: 400;
+  margin-top: 25px;
+}
+
+#grid-playlist2 {
+  display: grid;
+  grid-template-columns: repeat(6, 150px);
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.grid-item2 {
+  background-color: white;
+}
